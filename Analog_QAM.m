@@ -203,7 +203,7 @@ axis([-Fs/2000 Fs/2000 -40 100])
 %   filtering.
 % * In Figure 5, three periods of the recovered triangle signal are shown,
 %   which makes the triangular shape clearly visible in the time domain.
-% * In Figure 5, three periods of the recovered triangle signal are shown,
+% * In Figure 6, three periods of the recovered triangle signal are shown,
 %   which makes the triangular shape clearly visible in the time domain.
 %
 % Overall, the results verify the main idea of Analog QAM: two different
